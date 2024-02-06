@@ -11,7 +11,7 @@ As a fervent advocate for cybersecurity, my objective is to actively contribute 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Server with Active Directory                  | <a href="https://google.com">Detection Lab</a>|
+| Server with Active Directory                  | <a href="https://github.com/vrichardson8815/Active-Directory-PowerShell-Users/tree/main">Server w/Active Directory</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,6 +54,6 @@ As a fervent advocate for cybersecurity, my objective is to actively contribute 
 </div>
 
 ## Projects
-- Detection Lab
+<a href="https://github.com/vrichardson8815/Active-Directory-PowerShell-Users/tree/main">Server w/Active Directory</a>
 - Server with Active Directory
 - SOC Automation Project
